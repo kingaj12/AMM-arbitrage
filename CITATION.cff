@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: AMM-arbitrage
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Alan
+    family-names: King
+    email: kingaj12@gmail.com
+    affiliation: IBM Research
+    orcid: 'https://orcid.org/0000-0002-7562-4307'
+  - given-names: Bohang
+    family-names: Wei
+    email: bohangw@alumni.cmu.edu
+identifiers:
+  - type: url
+    value: 'https://github.com/kingaj12/AMM-arbitrage'
+    description: >-
+      Notebooks to perform basic calculations for carry
+      trade arbitrage in automated market makers.
